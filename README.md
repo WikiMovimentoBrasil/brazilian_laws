@@ -45,4 +45,4 @@ Please make sure to update tests as appropriate.
 
 
 ## Credits
-This application was developed in the context of the Brazilian Laws WikiProject, organized by the Wiki Movimento Brasil User Group and supported by the Wikimedia Foundation.
+This application was developed by the Wiki Movimento Brasil User Group, supported by WikiCite.
